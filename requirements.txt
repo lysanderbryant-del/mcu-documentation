@@ -1,0 +1,2 @@
+# Process Factory Framework Requirements
+websockets>=12.0
